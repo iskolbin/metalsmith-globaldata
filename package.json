@@ -2,7 +2,7 @@
 	"name": "metalsmith-globaldata",
 	"description": "Metalsmith plugin to load content from data folder and put it into global metadata.",
 	"repository": "git://github.com/iskolbin/metalsmith-globaldata.git",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"license": "MIT",
 	"main": "lib/index.js",
 	"dependencies": {
